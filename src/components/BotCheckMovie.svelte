@@ -39,7 +39,7 @@
 
   function checkRating(ratingsMap, expected) {
     return (
-      ratingsMap[expected] > 40 &&
+      ratingsMap[expected] > 30 &&
       Object.keys(ratingsMap).every(
         (key) => key === expected || ratingsMap[key] === 0
       )
