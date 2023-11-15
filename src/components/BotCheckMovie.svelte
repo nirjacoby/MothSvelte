@@ -152,7 +152,7 @@
       class="wrapper mx-4 flex flex-col gap-3 justify-center items-center text-xl text-gray-700"
     >
       <p class="flex-wrap text-center">
-        Great! It seems that you're audio and video are working properly. You
+        Great! It seems that your audio and video are working properly. You
         are now ready to start the main task!
       </p>
 
